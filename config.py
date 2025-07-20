@@ -1,2 +1,2 @@
 DATABASE = 'database.db'
-TOKEN = '7351206683:AAFsL6uzEFX8mkklGGCFHTQOfhv1FWrmKNg'
+TOKEN = 'Сюда вставь свой токен'
